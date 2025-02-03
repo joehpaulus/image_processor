@@ -142,9 +142,7 @@
 
 * * *
 
-### USER INTERFACE (To do)
-
-We want you to create a user interface that gives the user the ability to interact with your program. The requirements for the user interface are as follows:  
+### USER INTERFACE 
 
 *   User can enter an input BMP filename
 
@@ -180,7 +178,6 @@ Below is an example input/output session showing how your user interface might l
 <pre>
 $ `./main`
 
-CSPB 1300 Image Processing Application
 Enter input BMP filename: `sample.bmp`
 
 IMAGE PROCESSING MENU
