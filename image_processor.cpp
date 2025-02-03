@@ -1,22 +1,3 @@
-/*
-main.cpp
-CSPB 1300 Image Processing Application
-
-PLEASE FILL OUT THIS SECTION PRIOR TO SUBMISSION
-
-- Your name:
-    Joe Hoertig-Paulus
-
-- All project requirements fully met? (YES or NO):
-    YES
-
-- If no, please explain what you could not get to work:
-    N/A
-
-- Did you do any optional enhancements? If so, please explain:
-    Yes, I added additional descriptions in the user interface stating what: scaling factor, size increase, or 90 degree rotations the user has made the new image different from the input image. These enhancements were applied to processes: 2, 5, 6, 8, and 9.
-*/
-
 #include <iostream>
 #include <vector>
 #include <fstream>
